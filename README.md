@@ -1,3 +1,4 @@
+![logo](https://github.com/Mangesh65/Mangesh_65/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mangesh Pal</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
